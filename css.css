@@ -31,7 +31,7 @@ header
 h1#tx{
     background: rgb(77, 163, 212);
     max-width: 500px;
-    min-width: 100px;
+    min-width: 150px;
     margin: auto;
     margin-top: 10px;
     color: rgb(0, 0, 0);
