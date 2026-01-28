@@ -17,7 +17,7 @@ header
     background: rgb(254, 255, 255);
     text-align: center;
     height: auto;
-    padding: 10px 20px;
+    padding: 10px 0px;
     width: auto;
     margin: auto;
     margin-top: 0px;
@@ -38,6 +38,10 @@ h1#tx{
     font-family: 'Jersey 10';
     border-radius: 10px;
     box-shadow: 5px 5px 10px;
+}
+div#centro
+{
+    margin: 0px 20px;
 }
 
 nav
