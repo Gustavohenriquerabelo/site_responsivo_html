@@ -30,7 +30,7 @@ header
 
 h1#tx{
     background: rgb(77, 163, 212);
-    max-width: 550px;
+    max-width: 480px;
     min-width: 320px;
     margin: auto;
     margin-top: 10px;
@@ -159,6 +159,7 @@ section
     border-radius: 10px;
     padding-bottom: 0.5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.774);
+    margin: 0px -20px 20px -20px;
 }
 
 section > h1
@@ -185,6 +186,13 @@ a
 
 ul{
     columns: 2;
+}
+
+div#tabela
+{
+    max-width: 950px;
+    min-width: 300px;
+    margin: auto;
 }
 
 li a 
